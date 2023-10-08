@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="Logo Banner">
+    <file>../../../../Users/Lenovo/Pictures/DaVINCI Logo.png</file>
+    <file>../../../../Users/Lenovo/Pictures/DaVINCI BLUE.png</file>
+  </qresource>
+</RCC>
